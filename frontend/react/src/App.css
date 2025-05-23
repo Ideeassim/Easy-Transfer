@@ -1,0 +1,10 @@
+.home-page{
+  background-color: #BF5B04;
+  background-image: url('./assets/cubes.png'); 
+  min-height: 100vh;
+   margin: 0;
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+}
+
